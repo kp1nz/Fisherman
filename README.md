@@ -1,5 +1,7 @@
 # Fisherman
 
+> [README_CN](https://github.com/kp1nz/Fisherman/blob/main/README_CN.md)
+
 Fisherman is a GUI application built with Python and Tkinter, specifically designed for the game World of Warcraft (WoW) to automate fishing by detecting specific audio signals. This application provides automated keyboard operations based on audio feature matching, primarily used to detect specific audio signals and execute predefined actions.
 
 ## Features Overview
