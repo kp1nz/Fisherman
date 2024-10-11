@@ -11,7 +11,7 @@ Fisherman是一个使用 Python 和 Tkinter 构建的 GUI 应用程序，专为�
 
 ## 安装要求
 
-- Python 3.x
+- Python 3.8
 - 所需 Python 库：
   - tkinter (标准库，通常随 Python 一起安装)
   - librosa：用于音频信号处理
