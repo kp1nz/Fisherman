@@ -13,7 +13,7 @@ Fisherman is a GUI application built with Python and Tkinter, specifically desig
 
 ## Installation Requirements
 
-- Python 3.x
+- Python 3.8
 - Required Python Libraries:
   - tkinter (standard library, usually comes with Python)
   - librosa: for audio signal processing
